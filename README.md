@@ -15,5 +15,5 @@ The firefly algorithm has parameters: alpha value, beta, gamma, delta and all th
 
 The programming language used is Python.
 
-The implementation can be found in notebooks/fire-fly-app.ipynb for case 1 and fire-fly-app.ipynb for case 2.
+The implementation can be found in notebooks/fire-fly-app.ipynb for case 1 and fire-fly-app-2.ipynb for case 2.
 
