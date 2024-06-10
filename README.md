@@ -4,7 +4,7 @@ The problem chosen : Constrained Continuous Optimisation problem
 
 This problem was chosen to solve using Firefly Algorithm.
 
-A quadratic function was chosen as an objective function. The objective function in this implementation can be set to any other function as well.
+A multimodal cubic function was chosen as an objective function. The objective function in this implementation can be set to any other function as well.
 
 This function can be changed. The firefly algorithm has parameters: alpha value, beta, gamma, delta and these values can be tuned.
 
