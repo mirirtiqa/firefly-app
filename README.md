@@ -1,4 +1,4 @@
-Semester Project Part 2 - Use a Natural Algorithm to solve a real-world problem
+Semester Project Part 2 - Application of a natural algoritm
 
 The problem chosen : Constrained Continuous Optimisation problem
 
