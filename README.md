@@ -1,7 +1,13 @@
 # GitHub Codespaces ♥️ Jupyter Notebooks
 
-Welcome to your shiny new codespace! We've got everything fired up and running for you to explore Python and Jupyter notebooks.
+Semester Project  - Use a Natural Algorithm to solve a real-world problem
 
-You've got a blank canvas to work on from a git perspective as well. There's a single initial commit with what you're seeing right now - where you go from here is up to you!
+One of the most common real-world problem is get the global minima or maxima of any function.
+This problem was chosen to solve using a firefly algorithm
 
-Everything you do here is contained within this one codespace. There is no repository on GitHub yet. If and when you’re ready you can click "Publish Branch" and we’ll create your repository and push up your project. If you were just exploring then and have no further need for this code then you can simply delete your codespace and it's gone forever.
+A dummy function was chosen as an objective function.
+
+This function can be changed. The firefly algorithm has parameters: alpha value, beta, gamma, delta and these values can be tuned.
+
+The programming language used is Python.
+
