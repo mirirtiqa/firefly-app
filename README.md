@@ -1,11 +1,10 @@
-# GitHub Codespaces ♥️ Jupyter Notebooks
+Semester Project Part 2 - Use a Natural Algorithm to solve a real-world problem
 
-Semester Project  - Use a Natural Algorithm to solve a real-world problem
+The problem chosen : Constrained Continuous Optimisation problem
 
-One of the most common real-world problem is get the global minima or maxima of any function.
-This problem was chosen to solve using a firefly algorithm
+This problem was chosen to solve using Firefly Algorithm.
 
-A dummy function was chosen as an objective function.
+A quadratic function was chosen as an objective function. The objective function in this implementation can be set to any other function as well.
 
 This function can be changed. The firefly algorithm has parameters: alpha value, beta, gamma, delta and these values can be tuned.
 
