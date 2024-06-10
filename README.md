@@ -1,4 +1,4 @@
-Semester Project Part 2 - Application of a natural algoritm
+Semester Project Part 2 - Application of a Natural Algorithm ie Firefly Algorithm
 
 The problem chosen : Continuous Optimisation problem
 
@@ -11,7 +11,7 @@ The target is to minimise this function and get the value of the variables at th
 
 The objective function in this implementation can be set to any other function while applying it to other use cases.
 
-The firefly algorithm has parameters: alpha value, beta, gamma, delta and these values can be tuned.
+The firefly algorithm has parameters: alpha value, beta, gamma, delta and all these values can be tuned in this implementation.
 
 The programming language used is Python.
 
