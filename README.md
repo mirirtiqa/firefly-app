@@ -9,7 +9,7 @@ In this repo, two cases were tackled:
 
 The target is to minimise the objective function in both cases and get the value of the variables at the global minima.
 
-The objective function in these implementations can be set to any other function while applying to other use cases.
+The objective function in these implementations can be set to any other function with minimum changes to the rest of the code while applying to other use cases.
 
 The firefly algorithm has parameters: alpha value, beta, gamma, delta and all these values can be tuned in this implementation.
 
