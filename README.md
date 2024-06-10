@@ -10,3 +10,5 @@ This function can be changed. The firefly algorithm has parameters: alpha value,
 
 The programming language used is Python.
 
+The implementation can be found in notebooks/fire-fly-app.ipynb
+
