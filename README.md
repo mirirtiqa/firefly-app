@@ -2,7 +2,6 @@ Semester Project Part 2 - Application of a Natural Algorithm ie Firefly Algorith
 
 The problem chosen : Continuous Optimisation problem
 
-This problem was chosen to solve using Firefly Algorithm.
 
 In this repo, two cases were tackled: 
 1. a multimodal cubic function was chosen as an objective function. 
