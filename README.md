@@ -4,7 +4,6 @@ The problem chosen : Continuous Optimisation problem
 
 This problem was chosen to solve using Firefly Algorithm.
 
-A basic framework is implemented here for using firefly algorithm to tackle any continuous optimisation problem.
 In this example, a multimodal cubic function was chosen as an objective function. 
 
 The target is to minimise this function and get the value of the variables at the global minima.
